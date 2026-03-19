@@ -1,49 +1,76 @@
-# Anthony Nguyen | Portfolio (Programming)
+# Tony Nguyen | Game Systems & XR Portfolio
 
-This repo is a quick index to my best programming work and playable demos in C++.
+This repository highlights selected projects in gameplay systems, XR simulation, and player experience design.
 
-- GitHub: https://github.com/ramagosumt
-- itch.io: https://t-engine.itch.io
-- Resume: https://drive.google.com/file/d/1lCvP6Ep6_gXF0qIyuylHg72useFFHbz8
+GitHub: https://github.com/ramagosumt  
+itch.io: https://t-engine.itch.io
 
 ---
 
-## Featured Project 1: Infotainment HMI | FPT Automotive 
-**Repo:** https://github.com/ramagosumt/Infotainment_HMI_FPT_Automotive
+## Featured Projects
 
-**My role:** Game Engineering Intern
+### 🎮 Party to Die For (GDC Game Jam 2026)
+**Role:** Gameplay Engineer & Systems Designer  
+**Team Size:** 5  
+**Engine:** Unreal Engine 5 (Blueprint)
 
-**Contributions:**
-
-**Media:**
-
-**Code:**
-
-## Featured Project 2: Fragments Of The Deep
-**Repo:** https://teamrubberducky.itch.io/fragmentsofthedeep
-
-**My role:** Game Engineer
+**Description:**  
+A murder mystery game featuring branching dialogue and quest systems. Developed and demoed at GDC 2026.
 
 **Contributions:**
+- Designed data-driven dialogue and quest systems
+- Built event-driven interaction architecture
+- Enabled rapid narrative iteration without refactoring
 
-**Media:**
+**Media:**  
+[Add gameplay video or screenshots here]
 
-**Code:**
+---
 
-## Featured Project 3: 
-**Repo:** 
+### 🧠 XR Simulation Systems (USF Health CAMLS)
+**Role:** XR Researcher  
+**Engine:** Unity  
 
-**My role:** 
+**Description:**  
+Developed immersive training simulations integrating haptics and interaction systems.
 
 **Contributions:**
+- Designed interaction systems for training workflows
+- Improved task accuracy by 25% through iteration
+- Integrated haptic feedback and spatial logic
 
-**Media:**
+**Media:**  
+[Add screenshots or short clip]
 
-**Code:**
+---
 
-## Additional Projects:
-- Project 1: SKUF (https://helliongame.itch.io/scuf)
-- Project 2: Seek The Truth (https://mascot-horror-bro.itch.io/seek-the-truth)
-- Project 3: Prelude (https://mishirola.itch.io/prelude)
+### 🤖 SKUF (Gameplay AI Systems)
+**Role:** Gameplay Engineer  
+**Engine:** Unreal Engine 5  
+
+**Description:**  
+Implemented AI-driven gameplay systems using behavior trees and event-based logic.
+
+**Contributions:**
+- Built AI behavior systems
+- Designed gameplay state transitions
+- Collaborated with designers for gameplay tuning
+
+**Media:**  
+[Add gameplay clip]
+
+---
+
+## Additional Projects
+
+- Seek The Truth (Puzzle gameplay systems)  
+- Prelude (Graphics + UI systems)  
+- Pathfinding Visualization (Interactive simulation tool)  
+
+---
 
 ## About Me
+
+Gameplay systems engineer focused on XR, player experience, and interactive simulation.
+
+Interested in combining technical systems with player-centered design and research.
