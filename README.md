@@ -80,7 +80,7 @@ Systems Programming • Networking • Rendering • Testing • Software Archit
 
 ## 3. Pathfinding Visualization Framework
 
-**Role:** Solo Developer
+**Role:** Software Engineer
 
 **Engine:** Unreal Engine 5
 
