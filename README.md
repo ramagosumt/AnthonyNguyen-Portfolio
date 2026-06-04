@@ -20,7 +20,9 @@ This repository serves as an index for selected programming projects demonstrati
 
 **Language:** C++
 
-**Repository:** BT_Inventory
+**Repository:** [BT_Inventory](https://github.com/ramagosumt/BT_Inventory)
+
+**Source Folder:** [BT_Inventory/Source](https://github.com/ramagosumt/BT_Inventory/tree/Main/Source)
 
 ### Overview
 
@@ -51,6 +53,10 @@ Gameplay Systems • OOP • Components • Interfaces • Delegates • Data-Dr
 
 **Language:** C++
 
+**Repository:** [Infotainment_HMI_FPT_Automotive](https://github.com/ramagosumt/Infotainment_HMI_FPT_Automotive)
+
+**Source Folders:** [Headers](https://github.com/ramagosumt/Infotainment_HMI_FPT_Automotive/tree/Main/Headers) • [Sources](https://github.com/ramagosumt/Infotainment_HMI_FPT_Automotive/tree/Main/Sources) • [QML](https://github.com/ramagosumt/Infotainment_HMI_FPT_Automotive/tree/Main/QML)
+
 ### Overview
 
 Automotive infotainment and AR-HUD prototype developed during my internship at FPT Automotive. Simulates production automotive workflows involving rendering, media systems, streaming, testing, and state management.
@@ -80,6 +86,10 @@ Systems Programming • Networking • Rendering • Testing • Software Archit
 
 **Language:** C++
 
+**Repository:** [COP4530_FinalProject](https://github.com/ramagosumt/COP4530_FinalProject)
+
+**Source Folder:** [COP4530_FinalProject/Source](https://github.com/ramagosumt/COP4530_FinalProject/tree/Main/Source)
+
 ### Overview
 
 Interactive pathfinding visualization tool developed for Data Structures and Algorithms coursework. Allows users to generate environments, place obstacles, and observe pathfinding algorithms executing in real time.
@@ -105,6 +115,10 @@ Algorithms • Data Structures • Visualization • Tool Development
 **Role:** Solo Developer
 
 **Language:** C++
+
+**Repository:** [OpenGL_BeginnerProject](https://github.com/ramagosumt/OpenGL_BeginnerProject)
+
+**Source Folder:** [OpenGL_BeginnerProject/Source](https://github.com/ramagosumt/OpenGL_BeginnerProject/tree/main/Source)
 
 ### Overview
 
@@ -133,6 +147,10 @@ Graphics Programming • Rendering • GPU Pipelines • Engine Fundamentals
 Early Unreal Engine gameplay prototype exploring interaction systems, inventory management, dialogue workflows, puzzle mechanics, and runtime UI.
 
 Many of the concepts explored in this project were later redesigned and expanded into the architecture used in Amicus School of Engineering.
+
+**Repository:** [Personal-Project](https://github.com/ramagosumt/Personal-Project)
+
+**Source Folder:** [Personal-Project/Source](https://github.com/ramagosumt/Personal-Project/tree/Main/Source)
 
 ---
 
